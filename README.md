@@ -1,6 +1,3 @@
-# DataMiningPI
-https://dados.gov.br/dataset/sistema-de-informacao-sobre-mortalidade-sim-1979-a-2018
-https://dados.gov.br/dataset/sistema-de-informacao-sobre-mortalidade
 <p align="center">
   <a href="" rel="noopener">
   <img width=300px height=200px src="./imagens/logo.png" alt="Logo do Projeto"></a>
@@ -69,11 +66,14 @@ Instruções de como usar o sistema.
 
 ## ⛏️ Tecnologias Usadas <a name = "tecnologias-usadas"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Banco de Dados
-- [Express](https://expressjs.com/) - Framework de Servidor
-- [VueJs](https://vuejs.org/) - Framework Web
-- [NodeJs](https://nodejs.org/en/) - Ambiente de Servidor
+- [GoogleColab](https://colab.research.google.com/) - Notebooks
+- [DataSUS](https://dados.gov.br/dataset/sistema-de-informacao-sobre-mortalidade-sim-1979-a-2018) - Base de Dados
+- [DataSUSU 2021-2021](https://dados.gov.br/dataset/sistema-de-informacao-sobre-mortalidade) - Base de Dados atualizada
+
 
 ## ✍️ Desenvolvedores <a name = "desenvolvedores"></a>
 
-- [@seu-username](https://github.com/seu-username) - Ideia e trabalho inicial
+- [@seu-username](https://github.com/seu-username) 
+- [@seu-username](https://github.com/seu-username) 
+- [@seu-username](https://github.com/seu-username) 
+- [@seu-username](https://github.com/seu-username)
